@@ -8,7 +8,7 @@ A single-page contact & social hub meant to be opened when someone taps your NFC
 - **Banner** and **profile photo** slots (placeholders shown until you add your own images)
 - **Instagram**, **Facebook**, and **Venmo** links, in that order, to `bigcheesekettleco` / `@joshua-lovett-23`
 - **Contact Information** button — downloads a vCard (`assets/contact.vcf`) with name, business, phone, and email so it's added straight to the visitor's phone contacts
-- **Website** link to `www.bigcheesekettle.com`
+- **Website** link to `www.bigcheesekettleco.com`
 
 ## Adding your banner and profile photo
 
