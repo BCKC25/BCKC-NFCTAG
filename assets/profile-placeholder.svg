@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#c2410c"/>
+    </linearGradient>
+  </defs>
+  <circle cx="150" cy="150" r="146" fill="url(#pg)" stroke="#fff7ed" stroke-width="6"/>
+  <circle cx="150" cy="150" r="140" fill="none" stroke="#fed7aa" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="150" y="140" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#fff7ed" text-anchor="middle">Add Logo /</text>
+  <text x="150" y="165" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#fff7ed" text-anchor="middle">Profile Photo</text>
+</svg>
