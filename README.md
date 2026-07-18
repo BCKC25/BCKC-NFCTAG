@@ -6,10 +6,9 @@ A single-page contact & social hub meant to be opened when someone taps your NFC
 
 - **Business name** ("Big Cheese Kettle Co") at the top
 - **Banner** and **profile photo** slots (placeholders shown until you add your own images)
-- **Save My Contact** button — downloads a vCard (`assets/contact.vcf`) with your name, business, phone, and email so it's added straight to the visitor's phone contacts
-- **Call** and **Email** buttons (`tel:` / `mailto:` links)
-- **Facebook** and **Instagram** links to `bigcheesekettleco`
-- **Venmo** payment link to `@joshua-lovett-23`
+- **Instagram**, **Facebook**, and **Venmo** links, in that order, to `bigcheesekettleco` / `@joshua-lovett-23`
+- **Contact Information** button — downloads a vCard (`assets/contact.vcf`) with name, business, phone, and email so it's added straight to the visitor's phone contacts
+- **Website** link to `www.bigcheesekettle.com`
 
 ## Adding your banner and profile photo
 
@@ -23,7 +22,7 @@ Until those files exist, placeholder graphics are shown automatically.
 ## Updating contact details
 
 - Phone, email, and social links live in `index.html` (search for the `link-btn` entries) and in `assets/contact.vcf`.
-- Update both places if a phone/email ever changes so the "Save My Contact" download stays in sync with the page.
+- Update both places if a phone/email ever changes so the "Contact Information" download stays in sync with the page.
 
 ## Hosting it (so the NFC tag has a URL to open)
 
